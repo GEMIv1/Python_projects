@@ -8,7 +8,7 @@ headers = {'authorization': API_KEY_ASSEMBLYAI}
 
 
 CHUNK_SIZE = 5_242_880  # 5MB
-filename = "D:\Python projects\Speech Recognition Project Series\Test2.ogg"
+filename = "D:\Python projects\Speech Recognition Project \Test2.ogg"
 
 # upload
 
